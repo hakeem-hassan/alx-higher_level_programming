@@ -15,9 +15,6 @@ def roman_to_int(roman_string: str):
     return rep
 
 
-Advance task
-vi 100-weight_average.py
-
 #!/usr/bin/python3
 def weight_average(my_list=[]):
     if not my_list:
