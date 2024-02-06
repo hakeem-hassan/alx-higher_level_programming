@@ -8,4 +8,3 @@ print("--")
 
 my_square = Square(5, (4, 1))
 print(my_square)
-

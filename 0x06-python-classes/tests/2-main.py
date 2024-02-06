@@ -32,13 +32,3 @@ try:
     print(my_square_4.__dict__)
 except Exception as e:
     print(e)
-
-guillaume@ubuntu:~/0x06$ ./2-main.py
-<class '2-square.Square'>
-{'_Square__size': 3}
-<class '2-square.Square'>
-{'_Square__size': 0}
-'Square' object has no attribute 'size'
-'Square' object has no attribute '__size'
-size must be an integer
-size must be >= 0

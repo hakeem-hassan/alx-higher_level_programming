@@ -16,9 +16,3 @@ except Exception as e:
 
 my_square_2 = Square(5)
 print("Area: {}".format(my_square_2.area()))
-
-guillaume@ubuntu:~/0x06$ ./3-main.py
-Area: 9
-'Square' object has no attribute 'size'
-'Square' object has no attribute '__size'
-Area: 25
