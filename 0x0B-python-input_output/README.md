@@ -1,4 +1,6 @@
-# Python - Inheritance
+# Python - Input/Output
 
-In this project, I learned about Python class inheritance. I learned about the differences between super- and sub-classes while practicing inheritance, definining classes with multiple base classes, and overiding inherited methods and attributes.
+In this project, I practiced file handling in Python. I used the builtin `with`, `open`, and `read` functions with the `json` module to read and write files and serialize and deserialize objects with JSON.
+
+
 
